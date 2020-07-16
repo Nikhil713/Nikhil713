@@ -1,6 +1,6 @@
-<h2> Hi there 👋 </h2>
+### Hi there 👋 
 
-<h2>  I'm Nikhil and I love programming.</h2>
+###  I'm Nikhil and I love programming.
 
 - 🌟 I’m pursuing my B.Tech CS degree at MEC, Kochi
 - 🔭 Currently working on developing awesome websites
