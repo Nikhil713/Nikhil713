@@ -5,6 +5,6 @@
 - 🌟 I’m pursuing my Masters degree in Computer Science at the University of Stuttgart
 - 🔭 Currently working on building distributed systems
 - 👯 I’m looking to collaborate on projects in Python
-- 💬 Feel free to ask anything about Web development, Cloud Computing, Open source or CP
+- 💬 Feel free to ask anything about Web development, Cloud Computing, Open source or AI
 - 📫 You can contact me at nikhilbabu213@gmail.com
 - 😄 Website : https://nikhilbabu.netlify.app/
